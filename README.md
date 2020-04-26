@@ -3,7 +3,7 @@ Projects from students of NLP Course
 
 |Name|Description|Team|Repository|
 |----|-----------|----|----------|
-|Text summerization for English and Russian using BERT|The goal of the project is to make a simple website on Flask (Python), where users are eligible to paste a long text and yield a short. Comparing the results of both English and Russina models.|Remark|https://github.com/golden-ratio/huawei_project|
+|Text summerization for English and Russian using BERT|The goal of the project is to make a simple website on Flask (Python), where users are eligible to paste a long text and yield a short. Comparing the results of both English and Russian models.|Remark|https://github.com/golden-ratio/huawei_project|
 |Movie Poster Caption Generation||@kazzand|https://github.com/kazzand/huaweiproject |
 |Chinese-Russian Machine Translation||@RonanenkovN|https://github.com/RomanenkovN/HuaweiNLP |
 |Aspect-Based Sentiment Analysis in German|Identify aspect and document-level polarity of messages in German. It is important for German services providers such as railways.|@DrFirestream|https://github.com/DrFirestream/NLP |
